@@ -1,1 +1,1 @@
-https://github.com/bottna/Diagnose-default.git
+https://github.com/bottna/Diagnose-first.git
